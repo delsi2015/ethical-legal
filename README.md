@@ -1,1 +1,6 @@
-# ethical-legal
+# Ethical and legal aspects
+
+## Ideas
+
+
+
